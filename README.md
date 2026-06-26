@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Aakashraj18/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aakashraj18/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/Aakashraj18/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0704-binary-search](https://github.com/Aakashraj18/LeetCode/tree/master/0704-binary-search) |
@@ -11,6 +12,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Aakashraj18/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aakashraj18/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/Aakashraj18/LeetCode/tree/master/0704-binary-search) |
 ## Hash Table
