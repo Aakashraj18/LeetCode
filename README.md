@@ -14,6 +14,7 @@
 | [0239-sliding-window-maximum](https://github.com/Aakashraj18/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aakashraj18/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Aakashraj18/LeetCode/tree/master/0704-binary-search) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aakashraj18/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aakashraj18/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
@@ -74,4 +75,9 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Aakashraj18/LeetCode/tree/master/0015-3sum) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aakashraj18/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aakashraj18/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
