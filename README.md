@@ -16,6 +16,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Aakashraj18/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Aakashraj18/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Aakashraj18/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aakashraj18/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aakashraj18/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aakashraj18/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aakashraj18/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -32,6 +33,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Aakashraj18/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Aakashraj18/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Aakashraj18/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aakashraj18/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Hash Table
 |  |
 | ------- |
