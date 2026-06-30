@@ -41,6 +41,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aakashraj18/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aakashraj18/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Aakashraj18/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aakashraj18/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 ## String
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aakashraj18/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aakashraj18/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Math
 |  |
