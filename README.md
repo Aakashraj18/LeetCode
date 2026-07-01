@@ -27,6 +27,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/Aakashraj18/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aakashraj18/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aakashraj18/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Aakashraj18/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aakashraj18/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
@@ -48,6 +49,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aakashraj18/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Aakashraj18/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Aakashraj18/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Aakashraj18/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,6 +90,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Aakashraj18/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Aakashraj18/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -131,4 +134,16 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Aakashraj18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aakashraj18/LeetCode/tree/master/0503-next-greater-element-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Aakashraj18/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Aakashraj18/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Aakashraj18/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
