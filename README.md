@@ -30,6 +30,7 @@
 | [1539-kth-missing-positive-number](https://github.com/Aakashraj18/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Aakashraj18/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aakashraj18/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1901-find-a-peak-element-ii](https://github.com/Aakashraj18/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aakashraj18/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aakashraj18/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aakashraj18/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -57,6 +58,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aakashraj18/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Aakashraj18/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Aakashraj18/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1901-find-a-peak-element-ii](https://github.com/Aakashraj18/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aakashraj18/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Hash Table
 |  |
@@ -161,6 +163,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Aakashraj18/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aakashraj18/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Aakashraj18/LeetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1901-find-a-peak-element-ii](https://github.com/Aakashraj18/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aakashraj18/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aakashraj18/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
