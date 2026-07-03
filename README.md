@@ -183,5 +183,6 @@
 |  |
 | ------- |
 | [1193-monthly-transactions-i](https://github.com/Aakashraj18/LeetCode/tree/master/1193-monthly-transactions-i) |
+| [1517-find-users-with-valid-e-mails](https://github.com/Aakashraj18/LeetCode/tree/master/1517-find-users-with-valid-e-mails) |
 | [1789-primary-department-for-each-employee](https://github.com/Aakashraj18/LeetCode/tree/master/1789-primary-department-for-each-employee) |
 <!---LeetCode Topics End-->
