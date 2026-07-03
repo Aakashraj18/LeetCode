@@ -179,4 +179,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Aakashraj18/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Database
+|  |
+| ------- |
+| [1789-primary-department-for-each-employee](https://github.com/Aakashraj18/LeetCode/tree/master/1789-primary-department-for-each-employee) |
 <!---LeetCode Topics End-->
