@@ -185,6 +185,7 @@
 ## Database
 |  |
 | ------- |
+| [1164-product-price-at-a-given-date](https://github.com/Aakashraj18/LeetCode/tree/master/1164-product-price-at-a-given-date) |
 | [1193-monthly-transactions-i](https://github.com/Aakashraj18/LeetCode/tree/master/1193-monthly-transactions-i) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Aakashraj18/LeetCode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Aakashraj18/LeetCode/tree/master/1517-find-users-with-valid-e-mails) |
