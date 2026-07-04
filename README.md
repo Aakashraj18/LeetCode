@@ -152,11 +152,13 @@
 |  |
 | ------- |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Aakashraj18/LeetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aakashraj18/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aakashraj18/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aakashraj18/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aakashraj18/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aakashraj18/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
@@ -170,6 +172,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aakashraj18/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aakashraj18/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
@@ -186,4 +189,8 @@
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Aakashraj18/LeetCode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Aakashraj18/LeetCode/tree/master/1517-find-users-with-valid-e-mails) |
 | [1789-primary-department-for-each-employee](https://github.com/Aakashraj18/LeetCode/tree/master/1789-primary-department-for-each-employee) |
+## Depth-First Search
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aakashraj18/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
