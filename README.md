@@ -204,5 +204,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Aakashraj18/LeetCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Aakashraj18/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
