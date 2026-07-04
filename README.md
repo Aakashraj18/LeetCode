@@ -34,6 +34,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/Aakashraj18/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aakashraj18/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aakashraj18/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Aakashraj18/LeetCode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aakashraj18/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aakashraj18/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
@@ -206,4 +207,5 @@
 | ------- |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Aakashraj18/LeetCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Aakashraj18/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Aakashraj18/LeetCode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 <!---LeetCode Topics End-->
