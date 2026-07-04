@@ -201,4 +201,8 @@
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aakashraj18/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Aakashraj18/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
