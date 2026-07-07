@@ -140,6 +140,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Aakashraj18/LeetCode/tree/master/0069-sqrtx) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aakashraj18/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
 |  |
 | ------- |
