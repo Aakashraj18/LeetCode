@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/Aakashraj18/LeetCode/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/Aakashraj18/LeetCode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Aakashraj18/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Aakashraj18/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aakashraj18/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aakashraj18/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aakashraj18/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -212,7 +213,12 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Aakashraj18/LeetCode/tree/master/0078-subsets) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Aakashraj18/LeetCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Aakashraj18/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Aakashraj18/LeetCode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Aakashraj18/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
