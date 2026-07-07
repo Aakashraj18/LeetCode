@@ -20,6 +20,7 @@
 | [0162-find-peak-element](https://github.com/Aakashraj18/LeetCode/tree/master/0162-find-peak-element) |
 | [0239-sliding-window-maximum](https://github.com/Aakashraj18/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aakashraj18/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Aakashraj18/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Aakashraj18/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/Aakashraj18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aakashraj18/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -55,6 +56,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aakashraj18/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Aakashraj18/LeetCode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aakashraj18/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Aakashraj18/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Aakashraj18/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Aakashraj18/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aakashraj18/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -119,6 +121,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Aakashraj18/LeetCode/tree/master/0015-3sum) |
+| [0287-find-the-duplicate-number](https://github.com/Aakashraj18/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Aakashraj18/LeetCode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 ## Sorting
 |  |
@@ -218,6 +221,7 @@
 | [0078-subsets](https://github.com/Aakashraj18/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Aakashraj18/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Aakashraj18/LeetCode/tree/master/0137-single-number-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Aakashraj18/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Aakashraj18/LeetCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Aakashraj18/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Aakashraj18/LeetCode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
