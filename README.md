@@ -151,6 +151,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Aakashraj18/LeetCode/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/Aakashraj18/LeetCode/tree/master/0069-sqrtx) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aakashraj18/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Aakashraj18/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -227,6 +228,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Aakashraj18/LeetCode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Aakashraj18/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Aakashraj18/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Aakashraj18/LeetCode/tree/master/0137-single-number-ii) |
