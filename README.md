@@ -215,6 +215,7 @@
 |  |
 | ------- |
 | [0550-game-play-analysis-iv](https://github.com/Aakashraj18/LeetCode/tree/master/0550-game-play-analysis-iv) |
+| [0585-investments-in-2016](https://github.com/Aakashraj18/LeetCode/tree/master/0585-investments-in-2016) |
 | [0626-exchange-seats](https://github.com/Aakashraj18/LeetCode/tree/master/0626-exchange-seats) |
 | [1164-product-price-at-a-given-date](https://github.com/Aakashraj18/LeetCode/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/Aakashraj18/LeetCode/tree/master/1174-immediate-food-delivery-ii) |
