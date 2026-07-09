@@ -152,6 +152,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Aakashraj18/LeetCode/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/Aakashraj18/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Aakashraj18/LeetCode/tree/master/0069-sqrtx) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aakashraj18/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Aakashraj18/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -241,4 +242,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Aakashraj18/LeetCode/tree/master/0078-subsets) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Aakashraj18/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
