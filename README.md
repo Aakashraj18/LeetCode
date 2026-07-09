@@ -220,6 +220,7 @@
 | [1174-immediate-food-delivery-ii](https://github.com/Aakashraj18/LeetCode/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/Aakashraj18/LeetCode/tree/master/1193-monthly-transactions-i) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Aakashraj18/LeetCode/tree/master/1204-last-person-to-fit-in-the-bus) |
+| [1321-restaurant-growth](https://github.com/Aakashraj18/LeetCode/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/Aakashraj18/LeetCode/tree/master/1341-movie-rating) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Aakashraj18/LeetCode/tree/master/1517-find-users-with-valid-e-mails) |
 | [1789-primary-department-for-each-employee](https://github.com/Aakashraj18/LeetCode/tree/master/1789-primary-department-for-each-employee) |
