@@ -43,6 +43,7 @@
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Aakashraj18/LeetCode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aakashraj18/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aakashraj18/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aakashraj18/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aakashraj18/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
@@ -72,6 +73,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/Aakashraj18/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aakashraj18/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aakashraj18/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aakashraj18/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -128,6 +130,7 @@
 | [0015-3sum](https://github.com/Aakashraj18/LeetCode/tree/master/0015-3sum) |
 | [0287-find-the-duplicate-number](https://github.com/Aakashraj18/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Aakashraj18/LeetCode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aakashraj18/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -137,11 +140,13 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/Aakashraj18/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Aakashraj18/LeetCode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aakashraj18/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aakashraj18/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Aakashraj18/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aakashraj18/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aakashraj18/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
 | ------- |
@@ -160,6 +165,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Aakashraj18/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aakashraj18/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
 |  |
 | ------- |
@@ -203,6 +209,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aakashraj18/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aakashraj18/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aakashraj18/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aakashraj18/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -244,6 +251,7 @@
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Aakashraj18/LeetCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Aakashraj18/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Aakashraj18/LeetCode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aakashraj18/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Backtracking
 |  |
 | ------- |
