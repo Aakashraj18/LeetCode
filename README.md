@@ -32,6 +32,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Aakashraj18/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/Aakashraj18/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Aakashraj18/LeetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1331-rank-transform-of-an-array](https://github.com/Aakashraj18/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aakashraj18/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Aakashraj18/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Aakashraj18/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Aakashraj18/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1331-rank-transform-of-an-array](https://github.com/Aakashraj18/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aakashraj18/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aakashraj18/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aakashraj18/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -137,6 +139,7 @@
 | [0015-3sum](https://github.com/Aakashraj18/LeetCode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Aakashraj18/LeetCode/tree/master/0056-merge-intervals) |
 | [1288-remove-covered-intervals](https://github.com/Aakashraj18/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Aakashraj18/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Aakashraj18/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Aakashraj18/LeetCode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aakashraj18/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
