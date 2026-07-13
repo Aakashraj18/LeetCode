@@ -264,4 +264,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Aakashraj18/LeetCode/tree/master/0050-powx-n) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Aakashraj18/LeetCode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
