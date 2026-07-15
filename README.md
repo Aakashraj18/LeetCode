@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aakashraj18/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Aakashraj18/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aakashraj18/LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aakashraj18/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aakashraj18/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -130,6 +131,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aakashraj18/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aakashraj18/LeetCode/tree/master/0015-3sum) |
 | [0287-find-the-duplicate-number](https://github.com/Aakashraj18/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Aakashraj18/LeetCode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
@@ -148,6 +150,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aakashraj18/LeetCode/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/Aakashraj18/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aakashraj18/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aakashraj18/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
