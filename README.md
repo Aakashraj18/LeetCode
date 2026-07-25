@@ -11,6 +11,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aakashraj18/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aakashraj18/LeetCode/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/Aakashraj18/LeetCode/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/Aakashraj18/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Aakashraj18/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Aakashraj18/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aakashraj18/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -192,6 +193,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Aakashraj18/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aakashraj18/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Aakashraj18/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Aakashraj18/LeetCode/tree/master/0213-house-robber-ii) |
@@ -233,6 +235,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Aakashraj18/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Aakashraj18/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aakashraj18/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/Aakashraj18/LeetCode/tree/master/1260-shift-2d-grid) |
