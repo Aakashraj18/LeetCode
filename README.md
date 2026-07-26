@@ -15,6 +15,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Aakashraj18/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Aakashraj18/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aakashraj18/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0120-triangle](https://github.com/Aakashraj18/LeetCode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aakashraj18/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Aakashraj18/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Aakashraj18/LeetCode/tree/master/0137-single-number-ii) |
@@ -194,6 +195,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Aakashraj18/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0120-triangle](https://github.com/Aakashraj18/LeetCode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aakashraj18/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Aakashraj18/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Aakashraj18/LeetCode/tree/master/0213-house-robber-ii) |
