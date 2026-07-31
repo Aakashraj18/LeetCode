@@ -93,6 +93,7 @@
 | [0567-permutation-in-string](https://github.com/Aakashraj18/LeetCode/tree/master/0567-permutation-in-string) |
 | [1331-rank-transform-of-an-array](https://github.com/Aakashraj18/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aakashraj18/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aakashraj18/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aakashraj18/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aakashraj18/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
@@ -112,6 +113,7 @@
 ## Counting
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aakashraj18/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aakashraj18/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -159,6 +161,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/Aakashraj18/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Aakashraj18/LeetCode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aakashraj18/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aakashraj18/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aakashraj18/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aakashraj18/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -172,6 +175,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aakashraj18/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Aakashraj18/LeetCode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aakashraj18/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aakashraj18/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aakashraj18/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
@@ -182,6 +186,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aakashraj18/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aakashraj18/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aakashraj18/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aakashraj18/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Aakashraj18/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Math
 |  |
