@@ -34,6 +34,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Aakashraj18/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Aakashraj18/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Aakashraj18/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Aakashraj18/LeetCode/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aakashraj18/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/Aakashraj18/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Aakashraj18/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -194,6 +195,7 @@
 | [0029-divide-two-integers](https://github.com/Aakashraj18/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Aakashraj18/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Aakashraj18/LeetCode/tree/master/0069-sqrtx) |
+| [0877-stone-game](https://github.com/Aakashraj18/LeetCode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aakashraj18/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Aakashraj18/LeetCode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aakashraj18/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -211,6 +213,7 @@
 | [0198-house-robber](https://github.com/Aakashraj18/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Aakashraj18/LeetCode/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/Aakashraj18/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0877-stone-game](https://github.com/Aakashraj18/LeetCode/tree/master/0877-stone-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aakashraj18/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aakashraj18/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
@@ -333,4 +336,8 @@
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Aakashraj18/LeetCode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aakashraj18/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Aakashraj18/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
