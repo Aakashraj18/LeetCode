@@ -53,6 +53,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aakashraj18/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Aakashraj18/LeetCode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aakashraj18/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aakashraj18/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Aakashraj18/LeetCode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aakashraj18/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aakashraj18/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -96,6 +97,7 @@
 | [0567-permutation-in-string](https://github.com/Aakashraj18/LeetCode/tree/master/0567-permutation-in-string) |
 | [1331-rank-transform-of-an-array](https://github.com/Aakashraj18/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aakashraj18/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aakashraj18/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aakashraj18/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aakashraj18/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aakashraj18/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -134,6 +136,7 @@
 | [0239-sliding-window-maximum](https://github.com/Aakashraj18/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/Aakashraj18/LeetCode/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aakashraj18/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aakashraj18/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
