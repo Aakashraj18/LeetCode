@@ -35,6 +35,7 @@
 | [0503-next-greater-element-ii](https://github.com/Aakashraj18/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aakashraj18/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Aakashraj18/LeetCode/tree/master/0704-binary-search) |
+| [0826-most-profit-assigning-work](https://github.com/Aakashraj18/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0875-koko-eating-bananas](https://github.com/Aakashraj18/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Aakashraj18/LeetCode/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aakashraj18/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -80,6 +81,7 @@
 | [0410-split-array-largest-sum](https://github.com/Aakashraj18/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aakashraj18/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Aakashraj18/LeetCode/tree/master/0704-binary-search) |
+| [0826-most-profit-assigning-work](https://github.com/Aakashraj18/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0875-koko-eating-bananas](https://github.com/Aakashraj18/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aakashraj18/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Aakashraj18/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -154,6 +156,7 @@
 | [0015-3sum](https://github.com/Aakashraj18/LeetCode/tree/master/0015-3sum) |
 | [0287-find-the-duplicate-number](https://github.com/Aakashraj18/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Aakashraj18/LeetCode/tree/master/0567-permutation-in-string) |
+| [0826-most-profit-assigning-work](https://github.com/Aakashraj18/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Aakashraj18/LeetCode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aakashraj18/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aakashraj18/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -162,6 +165,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Aakashraj18/LeetCode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Aakashraj18/LeetCode/tree/master/0056-merge-intervals) |
+| [0826-most-profit-assigning-work](https://github.com/Aakashraj18/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [1288-remove-covered-intervals](https://github.com/Aakashraj18/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Aakashraj18/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Aakashraj18/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -180,6 +184,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aakashraj18/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Aakashraj18/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0410-split-array-largest-sum](https://github.com/Aakashraj18/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0826-most-profit-assigning-work](https://github.com/Aakashraj18/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aakashraj18/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aakashraj18/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Aakashraj18/LeetCode/tree/master/2366-minimum-replacements-to-sort-the-array) |
