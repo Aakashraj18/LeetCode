@@ -31,6 +31,7 @@
 | [0260-single-number-iii](https://github.com/Aakashraj18/LeetCode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Aakashraj18/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Aakashraj18/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/Aakashraj18/LeetCode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Aakashraj18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aakashraj18/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aakashraj18/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -209,6 +210,7 @@
 | [0029-divide-two-integers](https://github.com/Aakashraj18/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Aakashraj18/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Aakashraj18/LeetCode/tree/master/0069-sqrtx) |
+| [0486-predict-the-winner](https://github.com/Aakashraj18/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aakashraj18/LeetCode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aakashraj18/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Aakashraj18/LeetCode/tree/master/2366-minimum-replacements-to-sort-the-array) |
@@ -230,6 +232,7 @@
 | [0198-house-robber](https://github.com/Aakashraj18/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Aakashraj18/LeetCode/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/Aakashraj18/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/Aakashraj18/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aakashraj18/LeetCode/tree/master/0877-stone-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aakashraj18/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aakashraj18/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -338,6 +341,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/Aakashraj18/LeetCode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Aakashraj18/LeetCode/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/Aakashraj18/LeetCode/tree/master/0486-predict-the-winner) |
 ## Enumeration
 |  |
 | ------- |
@@ -357,5 +361,14 @@
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Aakashraj18/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aakashraj18/LeetCode/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Aakashraj18/LeetCode/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Aakashraj18/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
