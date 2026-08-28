@@ -260,6 +260,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0617-merge-two-binary-trees](https://github.com/Aakashraj18/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0785-is-graph-bipartite](https://github.com/Aakashraj18/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Aakashraj18/LeetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aakashraj18/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -324,6 +325,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aakashraj18/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Aakashraj18/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0785-is-graph-bipartite](https://github.com/Aakashraj18/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aakashraj18/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Aakashraj18/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -383,6 +385,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aakashraj18/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Aakashraj18/LeetCode/tree/master/0617-merge-two-binary-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -391,6 +394,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aakashraj18/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Aakashraj18/LeetCode/tree/master/0617-merge-two-binary-trees) |
 ## Linked List
 |  |
 | ------- |
