@@ -99,6 +99,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Aakashraj18/LeetCode/tree/master/0127-word-ladder) |
 | [0496-next-greater-element-i](https://github.com/Aakashraj18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Aakashraj18/LeetCode/tree/master/0567-permutation-in-string) |
 | [1331-rank-transform-of-an-array](https://github.com/Aakashraj18/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -205,6 +206,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Aakashraj18/LeetCode/tree/master/0044-wildcard-matching) |
+| [0127-word-ladder](https://github.com/Aakashraj18/LeetCode/tree/master/0127-word-ladder) |
 | [0316-remove-duplicate-letters](https://github.com/Aakashraj18/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0567-permutation-in-string](https://github.com/Aakashraj18/LeetCode/tree/master/0567-permutation-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aakashraj18/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -262,6 +264,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Aakashraj18/LeetCode/tree/master/0127-word-ladder) |
 | [0617-merge-two-binary-trees](https://github.com/Aakashraj18/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0785-is-graph-bipartite](https://github.com/Aakashraj18/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Aakashraj18/LeetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -405,4 +408,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Aakashraj18/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Aakashraj18/LeetCode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
