@@ -18,6 +18,7 @@
 | [0056-merge-intervals](https://github.com/Aakashraj18/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Aakashraj18/LeetCode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Aakashraj18/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Aakashraj18/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Aakashraj18/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Aakashraj18/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aakashraj18/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -101,6 +102,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Aakashraj18/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/Aakashraj18/LeetCode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/Aakashraj18/LeetCode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Aakashraj18/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -293,6 +295,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aakashraj18/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Aakashraj18/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Aakashraj18/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Aakashraj18/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aakashraj18/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/Aakashraj18/LeetCode/tree/master/1260-shift-2d-grid) |
