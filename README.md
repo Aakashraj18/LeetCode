@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/Aakashraj18/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Aakashraj18/LeetCode/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/Aakashraj18/LeetCode/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/Aakashraj18/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Aakashraj18/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Aakashraj18/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Aakashraj18/LeetCode/tree/master/0057-insert-interval) |
@@ -285,6 +286,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Aakashraj18/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Aakashraj18/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Aakashraj18/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aakashraj18/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -373,6 +375,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Aakashraj18/LeetCode/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/Aakashraj18/LeetCode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aakashraj18/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Game Theory
