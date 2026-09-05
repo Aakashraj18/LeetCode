@@ -102,6 +102,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Aakashraj18/LeetCode/tree/master/0127-word-ladder) |
+| [0242-valid-anagram](https://github.com/Aakashraj18/LeetCode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Aakashraj18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Aakashraj18/LeetCode/tree/master/0567-permutation-in-string) |
 | [1331-rank-transform-of-an-array](https://github.com/Aakashraj18/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -177,6 +178,7 @@
 | [0015-3sum](https://github.com/Aakashraj18/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aakashraj18/LeetCode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Aakashraj18/LeetCode/tree/master/0056-merge-intervals) |
+| [0242-valid-anagram](https://github.com/Aakashraj18/LeetCode/tree/master/0242-valid-anagram) |
 | [0826-most-profit-assigning-work](https://github.com/Aakashraj18/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [1288-remove-covered-intervals](https://github.com/Aakashraj18/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Aakashraj18/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -209,6 +211,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/Aakashraj18/LeetCode/tree/master/0044-wildcard-matching) |
 | [0127-word-ladder](https://github.com/Aakashraj18/LeetCode/tree/master/0127-word-ladder) |
+| [0242-valid-anagram](https://github.com/Aakashraj18/LeetCode/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Aakashraj18/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0567-permutation-in-string](https://github.com/Aakashraj18/LeetCode/tree/master/0567-permutation-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aakashraj18/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
