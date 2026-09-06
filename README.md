@@ -168,6 +168,7 @@
 | [0011-container-with-most-water](https://github.com/Aakashraj18/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aakashraj18/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aakashraj18/LeetCode/tree/master/0018-4sum) |
+| [0143-reorder-list](https://github.com/Aakashraj18/LeetCode/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/Aakashraj18/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Aakashraj18/LeetCode/tree/master/0567-permutation-in-string) |
 | [0826-most-profit-assigning-work](https://github.com/Aakashraj18/LeetCode/tree/master/0826-most-profit-assigning-work) |
@@ -259,6 +260,7 @@
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Aakashraj18/LeetCode/tree/master/0143-reorder-list) |
 | [0316-remove-duplicate-letters](https://github.com/Aakashraj18/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Aakashraj18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aakashraj18/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -371,6 +373,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Aakashraj18/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/Aakashraj18/LeetCode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Aakashraj18/LeetCode/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/Aakashraj18/LeetCode/tree/master/0143-reorder-list) |
 | [0486-predict-the-winner](https://github.com/Aakashraj18/LeetCode/tree/master/0486-predict-the-winner) |
 ## Enumeration
 |  |
@@ -421,6 +424,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Aakashraj18/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Aakashraj18/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0143-reorder-list](https://github.com/Aakashraj18/LeetCode/tree/master/0143-reorder-list) |
 ## Tournament Sort
 |  |
 | ------- |
