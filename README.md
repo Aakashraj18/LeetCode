@@ -368,6 +368,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Aakashraj18/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/Aakashraj18/LeetCode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Aakashraj18/LeetCode/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/Aakashraj18/LeetCode/tree/master/0486-predict-the-winner) |
@@ -418,6 +419,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Aakashraj18/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Aakashraj18/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 ## Tournament Sort
 |  |
