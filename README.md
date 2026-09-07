@@ -20,6 +20,7 @@
 | [0063-unique-paths-ii](https://github.com/Aakashraj18/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Aakashraj18/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Aakashraj18/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Aakashraj18/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Aakashraj18/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aakashraj18/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0120-triangle](https://github.com/Aakashraj18/LeetCode/tree/master/0120-triangle) |
@@ -169,6 +170,7 @@
 | [0011-container-with-most-water](https://github.com/Aakashraj18/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aakashraj18/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aakashraj18/LeetCode/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/Aakashraj18/LeetCode/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/Aakashraj18/LeetCode/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/Aakashraj18/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Aakashraj18/LeetCode/tree/master/0567-permutation-in-string) |
@@ -182,6 +184,7 @@
 | [0015-3sum](https://github.com/Aakashraj18/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aakashraj18/LeetCode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Aakashraj18/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Aakashraj18/LeetCode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Aakashraj18/LeetCode/tree/master/0242-valid-anagram) |
 | [0826-most-profit-assigning-work](https://github.com/Aakashraj18/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [1288-remove-covered-intervals](https://github.com/Aakashraj18/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -435,4 +438,12 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Aakashraj18/LeetCode/tree/master/0127-word-ladder) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Aakashraj18/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Aakashraj18/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
