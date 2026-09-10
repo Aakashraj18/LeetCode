@@ -29,6 +29,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aakashraj18/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Aakashraj18/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Aakashraj18/LeetCode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/Aakashraj18/LeetCode/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aakashraj18/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aakashraj18/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Aakashraj18/LeetCode/tree/master/0162-find-peak-element) |
@@ -107,6 +108,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Aakashraj18/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/Aakashraj18/LeetCode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/Aakashraj18/LeetCode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Aakashraj18/LeetCode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Aakashraj18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Aakashraj18/LeetCode/tree/master/0567-permutation-in-string) |
@@ -222,6 +224,7 @@
 | [0044-wildcard-matching](https://github.com/Aakashraj18/LeetCode/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/Aakashraj18/LeetCode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Aakashraj18/LeetCode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/Aakashraj18/LeetCode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Aakashraj18/LeetCode/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Aakashraj18/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0567-permutation-in-string](https://github.com/Aakashraj18/LeetCode/tree/master/0567-permutation-in-string) |
@@ -257,6 +260,7 @@
 | [0063-unique-paths-ii](https://github.com/Aakashraj18/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/Aakashraj18/LeetCode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aakashraj18/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/Aakashraj18/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Aakashraj18/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Aakashraj18/LeetCode/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/Aakashraj18/LeetCode/tree/master/0338-counting-bits) |
@@ -453,4 +457,16 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Aakashraj18/LeetCode/tree/master/0075-sort-colors) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Aakashraj18/LeetCode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Aakashraj18/LeetCode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Aakashraj18/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
